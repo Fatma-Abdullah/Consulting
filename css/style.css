@@ -11729,6 +11729,7 @@
      .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
          color: #fff;
      }
+
  }
 
  @media (max-width: 767.98px) {
@@ -14543,4 +14544,10 @@
     min-width: 100%;
     width: 100% !important;
     height: 277px;
+}
+@media (max-width: 991.98px) {
+    .ftco-faqs .img {
+        height: 32rem;
+        width: 100%;
+    }
 }
